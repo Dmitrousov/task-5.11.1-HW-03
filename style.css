@@ -8,7 +8,7 @@ header {
     align-items: center;
     justify-content: center;
     height: 400px;
-    background: url('https://unsplash.com/photos/a-dirt-road-in-the-middle-of-a-forest-KAHOqoAF0so') bottom no-repeat;
+    background: url('https://unsplash.com/photos/a-dirt-road-in-the-middle-of-a-forest-KAHOqoAF0so');
     background-size: cover;
 }
 
