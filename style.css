@@ -8,7 +8,7 @@ header {
     align-items: center;
     justify-content: center;
     height: 400px;
-    background: url('https://yandex.ru/images/search?cbir_id=10246449%2FxVvfQ84yypEXVCW1PA-Iwg891&cbir_page=similar&cbird=90&img_url=https%3A%2F%2Fc2.peakpx.com%2Fwallpaper%2F460%2F67%2F622%2F5k-cloud-fog-mist-tree-wallpaper.jpg&lr=11110&pos=9&rpt=imageview&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F10246449%2FxVvfQ84yypEXVCW1PA-Iwg891%2Forig') no-repeat center bottom;
+    background: url('./forest.jpg') bottom no-repeat;
     background-size: cover;
 }
 
